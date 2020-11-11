@@ -2,13 +2,11 @@
   <img width="640" height="360" src="https://github.com/zTehRyaN/zTehRyaN/blob/master/img/taxiway.jpg" />
 </p>
 
-[![Website](https://img.shields.io/website?up_color=red&up_message=offline&url=https%3A%2F%2Fmatteogiordano.sh)](https://matteogiordano.sh)
-
-### 👋 Hi there, here's Matteo!
-
-🧑🏼‍💻 MSc Computer Science & Engineering student @ ***[PoliMi](https://www.polimi.it/)***  
-🔑 Computer secutiry geek.  
-⛩ Calisthenics and CTFs in free time - in a loop.  
+### Welcome, I'm Matteo! 🇮🇹
+  
+🧑🏼‍💻 | MSc Computer Science & Engineering student @ ***[PoliMi](https://www.polimi.it/)***  
+🔑 | Computer security geek.  
+⛩ | Calisthenics and CTFs in free time - in a loop.  
 
 #### Programming languages: 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnanVoYWN8Z3g6NTFiY2ExMDdkYTI5YmRmZA>)
