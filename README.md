@@ -6,7 +6,8 @@
 
 
 ### Welcome, I'm Matteo! 🇮🇹
-  
+---
+
 🧑🏼‍💻 | MSc Computer Science & Engineering student @ ***[PoliMi](https://www.polimi.it/)***  
 🔑 | Computer security geek.  
 ⛩ | Calisthenics and CTFs in free time - in a loop.  
